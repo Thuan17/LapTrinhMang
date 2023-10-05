@@ -1,0 +1,7 @@
+D:\LapTrinhMang\LapTrinhMang\DoAn\Test\ServerTCP\ServerTCP\bin\Debug\ServerTCP.exe.config
+D:\LapTrinhMang\LapTrinhMang\DoAn\Test\ServerTCP\ServerTCP\bin\Debug\ServerTCP.exe
+D:\LapTrinhMang\LapTrinhMang\DoAn\Test\ServerTCP\ServerTCP\bin\Debug\ServerTCP.pdb
+D:\LapTrinhMang\LapTrinhMang\DoAn\Test\ServerTCP\ServerTCP\obj\Debug\ServerTCP.csproj.AssemblyReference.cache
+D:\LapTrinhMang\LapTrinhMang\DoAn\Test\ServerTCP\ServerTCP\obj\Debug\ServerTCP.csproj.CoreCompileInputs.cache
+D:\LapTrinhMang\LapTrinhMang\DoAn\Test\ServerTCP\ServerTCP\obj\Debug\ServerTCP.exe
+D:\LapTrinhMang\LapTrinhMang\DoAn\Test\ServerTCP\ServerTCP\obj\Debug\ServerTCP.pdb

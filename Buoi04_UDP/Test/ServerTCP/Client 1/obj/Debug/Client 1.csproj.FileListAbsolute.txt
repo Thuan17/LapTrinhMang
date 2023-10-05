@@ -1,0 +1,7 @@
+D:\LapTrinhMang\LapTrinhMang\DoAn\Test\ServerTCP\Client 1\bin\Debug\Client 1.exe.config
+D:\LapTrinhMang\LapTrinhMang\DoAn\Test\ServerTCP\Client 1\bin\Debug\Client 1.exe
+D:\LapTrinhMang\LapTrinhMang\DoAn\Test\ServerTCP\Client 1\bin\Debug\Client 1.pdb
+D:\LapTrinhMang\LapTrinhMang\DoAn\Test\ServerTCP\Client 1\obj\Debug\Client 1.csproj.AssemblyReference.cache
+D:\LapTrinhMang\LapTrinhMang\DoAn\Test\ServerTCP\Client 1\obj\Debug\Client 1.csproj.CoreCompileInputs.cache
+D:\LapTrinhMang\LapTrinhMang\DoAn\Test\ServerTCP\Client 1\obj\Debug\Client 1.exe
+D:\LapTrinhMang\LapTrinhMang\DoAn\Test\ServerTCP\Client 1\obj\Debug\Client 1.pdb

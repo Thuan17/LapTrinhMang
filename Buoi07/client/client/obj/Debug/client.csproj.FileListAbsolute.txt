@@ -1,0 +1,7 @@
+D:\DaiHoc\LapTrinhMang\Buoi07\client\client\bin\Debug\client.exe.config
+D:\DaiHoc\LapTrinhMang\Buoi07\client\client\bin\Debug\client.exe
+D:\DaiHoc\LapTrinhMang\Buoi07\client\client\bin\Debug\client.pdb
+D:\DaiHoc\LapTrinhMang\Buoi07\client\client\obj\Debug\client.csproj.AssemblyReference.cache
+D:\DaiHoc\LapTrinhMang\Buoi07\client\client\obj\Debug\client.csproj.CoreCompileInputs.cache
+D:\DaiHoc\LapTrinhMang\Buoi07\client\client\obj\Debug\client.exe
+D:\DaiHoc\LapTrinhMang\Buoi07\client\client\obj\Debug\client.pdb

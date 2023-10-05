@@ -1,0 +1,14 @@
+D:\DaiHoc\LapTrinhMang\Buoi04_UDP\UDP_Server\UDP_Server\bin\Debug\UDP_Server.exe.config
+D:\DaiHoc\LapTrinhMang\Buoi04_UDP\UDP_Server\UDP_Server\bin\Debug\UDP_Server.exe
+D:\DaiHoc\LapTrinhMang\Buoi04_UDP\UDP_Server\UDP_Server\bin\Debug\UDP_Server.pdb
+D:\DaiHoc\LapTrinhMang\Buoi04_UDP\UDP_Server\UDP_Server\obj\Debug\UDP_Server.csproj.AssemblyReference.cache
+D:\DaiHoc\LapTrinhMang\Buoi04_UDP\UDP_Server\UDP_Server\obj\Debug\UDP_Server.csproj.CoreCompileInputs.cache
+D:\DaiHoc\LapTrinhMang\Buoi04_UDP\UDP_Server\UDP_Server\obj\Debug\UDP_Server.exe
+D:\DaiHoc\LapTrinhMang\Buoi04_UDP\UDP_Server\UDP_Server\obj\Debug\UDP_Server.pdb
+D:\LapTrinhMang\LapTrinhMang\Buoi04_UDP\UDP_Server\UDP_Server\bin\Debug\UDP_Server.exe.config
+D:\LapTrinhMang\LapTrinhMang\Buoi04_UDP\UDP_Server\UDP_Server\bin\Debug\UDP_Server.exe
+D:\LapTrinhMang\LapTrinhMang\Buoi04_UDP\UDP_Server\UDP_Server\bin\Debug\UDP_Server.pdb
+D:\LapTrinhMang\LapTrinhMang\Buoi04_UDP\UDP_Server\UDP_Server\obj\Debug\UDP_Server.csproj.AssemblyReference.cache
+D:\LapTrinhMang\LapTrinhMang\Buoi04_UDP\UDP_Server\UDP_Server\obj\Debug\UDP_Server.csproj.CoreCompileInputs.cache
+D:\LapTrinhMang\LapTrinhMang\Buoi04_UDP\UDP_Server\UDP_Server\obj\Debug\UDP_Server.exe
+D:\LapTrinhMang\LapTrinhMang\Buoi04_UDP\UDP_Server\UDP_Server\obj\Debug\UDP_Server.pdb

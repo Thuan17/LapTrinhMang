@@ -1,0 +1,7 @@
+D:\DaiHoc\LapTrinhMang\LapTrinhMang\Buoi08\UDP_Server_Client\Client\bin\Debug\Client.exe.config
+D:\DaiHoc\LapTrinhMang\LapTrinhMang\Buoi08\UDP_Server_Client\Client\bin\Debug\Client.exe
+D:\DaiHoc\LapTrinhMang\LapTrinhMang\Buoi08\UDP_Server_Client\Client\bin\Debug\Client.pdb
+D:\DaiHoc\LapTrinhMang\LapTrinhMang\Buoi08\UDP_Server_Client\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+D:\DaiHoc\LapTrinhMang\LapTrinhMang\Buoi08\UDP_Server_Client\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+D:\DaiHoc\LapTrinhMang\LapTrinhMang\Buoi08\UDP_Server_Client\Client\obj\Debug\Client.exe
+D:\DaiHoc\LapTrinhMang\LapTrinhMang\Buoi08\UDP_Server_Client\Client\obj\Debug\Client.pdb

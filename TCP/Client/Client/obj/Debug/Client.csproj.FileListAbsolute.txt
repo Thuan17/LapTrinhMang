@@ -1,0 +1,14 @@
+D:\LapTrinhMang\LapTrinhMang\TCP\Client\Client\bin\Debug\Client.exe.config
+D:\LapTrinhMang\LapTrinhMang\TCP\Client\Client\bin\Debug\Client.exe
+D:\LapTrinhMang\LapTrinhMang\TCP\Client\Client\bin\Debug\Client.pdb
+D:\LapTrinhMang\LapTrinhMang\TCP\Client\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+D:\LapTrinhMang\LapTrinhMang\TCP\Client\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+D:\LapTrinhMang\LapTrinhMang\TCP\Client\Client\obj\Debug\Client.exe
+D:\LapTrinhMang\LapTrinhMang\TCP\Client\Client\obj\Debug\Client.pdb
+D:\DaiHoc\LapTrinhMang\LapTrinhMang\TCP\Client\Client\bin\Debug\Client.exe.config
+D:\DaiHoc\LapTrinhMang\LapTrinhMang\TCP\Client\Client\bin\Debug\Client.exe
+D:\DaiHoc\LapTrinhMang\LapTrinhMang\TCP\Client\Client\bin\Debug\Client.pdb
+D:\DaiHoc\LapTrinhMang\LapTrinhMang\TCP\Client\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+D:\DaiHoc\LapTrinhMang\LapTrinhMang\TCP\Client\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+D:\DaiHoc\LapTrinhMang\LapTrinhMang\TCP\Client\Client\obj\Debug\Client.exe
+D:\DaiHoc\LapTrinhMang\LapTrinhMang\TCP\Client\Client\obj\Debug\Client.pdb

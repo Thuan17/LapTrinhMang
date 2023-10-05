@@ -1,0 +1,14 @@
+D:\DaiHoc\CongNghe.net\New folder\Buoi03\TCP_Server_Client\TCP_Server_Client\bin\Debug\TCP_Server_Client.exe.config
+D:\DaiHoc\CongNghe.net\New folder\Buoi03\TCP_Server_Client\TCP_Server_Client\bin\Debug\TCP_Server_Client.exe
+D:\DaiHoc\CongNghe.net\New folder\Buoi03\TCP_Server_Client\TCP_Server_Client\bin\Debug\TCP_Server_Client.pdb
+D:\DaiHoc\CongNghe.net\New folder\Buoi03\TCP_Server_Client\TCP_Server_Client\obj\Debug\TCP_Server_Client.csproj.AssemblyReference.cache
+D:\DaiHoc\CongNghe.net\New folder\Buoi03\TCP_Server_Client\TCP_Server_Client\obj\Debug\TCP_Server_Client.csproj.CoreCompileInputs.cache
+D:\DaiHoc\CongNghe.net\New folder\Buoi03\TCP_Server_Client\TCP_Server_Client\obj\Debug\TCP_Server_Client.exe
+D:\DaiHoc\CongNghe.net\New folder\Buoi03\TCP_Server_Client\TCP_Server_Client\obj\Debug\TCP_Server_Client.pdb
+D:\DaiHoc\LapTrinhMang\Buoi03\TCP_Server_Client\TCP_Server_Client\bin\Debug\TCP_Server_Client.exe.config
+D:\DaiHoc\LapTrinhMang\Buoi03\TCP_Server_Client\TCP_Server_Client\bin\Debug\TCP_Server_Client.exe
+D:\DaiHoc\LapTrinhMang\Buoi03\TCP_Server_Client\TCP_Server_Client\bin\Debug\TCP_Server_Client.pdb
+D:\DaiHoc\LapTrinhMang\Buoi03\TCP_Server_Client\TCP_Server_Client\obj\Debug\TCP_Server_Client.csproj.AssemblyReference.cache
+D:\DaiHoc\LapTrinhMang\Buoi03\TCP_Server_Client\TCP_Server_Client\obj\Debug\TCP_Server_Client.csproj.CoreCompileInputs.cache
+D:\DaiHoc\LapTrinhMang\Buoi03\TCP_Server_Client\TCP_Server_Client\obj\Debug\TCP_Server_Client.exe
+D:\DaiHoc\LapTrinhMang\Buoi03\TCP_Server_Client\TCP_Server_Client\obj\Debug\TCP_Server_Client.pdb

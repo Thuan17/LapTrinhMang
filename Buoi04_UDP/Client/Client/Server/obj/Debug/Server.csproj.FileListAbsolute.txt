@@ -1,0 +1,14 @@
+D:\LapTrinhMang\LapTrinhMang\DoAn\Client\Client\Server\bin\Debug\Server.exe.config
+D:\LapTrinhMang\LapTrinhMang\DoAn\Client\Client\Server\bin\Debug\Server.exe
+D:\LapTrinhMang\LapTrinhMang\DoAn\Client\Client\Server\bin\Debug\Server.pdb
+D:\LapTrinhMang\LapTrinhMang\DoAn\Client\Client\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+D:\LapTrinhMang\LapTrinhMang\DoAn\Client\Client\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+D:\LapTrinhMang\LapTrinhMang\DoAn\Client\Client\Server\obj\Debug\Server.exe
+D:\LapTrinhMang\LapTrinhMang\DoAn\Client\Client\Server\obj\Debug\Server.pdb
+D:\DaiHoc\LapTrinhMang\LapTrinhMang\Buoi04_UDP\Client\Client\Server\bin\Debug\Server.exe.config
+D:\DaiHoc\LapTrinhMang\LapTrinhMang\Buoi04_UDP\Client\Client\Server\bin\Debug\Server.exe
+D:\DaiHoc\LapTrinhMang\LapTrinhMang\Buoi04_UDP\Client\Client\Server\bin\Debug\Server.pdb
+D:\DaiHoc\LapTrinhMang\LapTrinhMang\Buoi04_UDP\Client\Client\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+D:\DaiHoc\LapTrinhMang\LapTrinhMang\Buoi04_UDP\Client\Client\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+D:\DaiHoc\LapTrinhMang\LapTrinhMang\Buoi04_UDP\Client\Client\Server\obj\Debug\Server.exe
+D:\DaiHoc\LapTrinhMang\LapTrinhMang\Buoi04_UDP\Client\Client\Server\obj\Debug\Server.pdb

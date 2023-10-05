@@ -1,0 +1,54 @@
+ byte[] data = new byte[1024];
+ IPEndPoint ipep = new IPEndPoint(IPAddress.Any, 9050);
+ Socket newsock = new Socket(AddressFamily.InterNetwork, SocketType.Stream, ProtocolType.Tcp);
+ newsock.Bind(ipep);
+ newsock.Listen(10);
+ Console.WriteLine("waiting for a client...");
+ Socket client = newsock.Accept();
+ IPEndPoint clientep = (IPEndPoint)client.RemoteEndPoint;
+ Console.WriteLine("Connected with {0} at port {1}", clientep.Address, clientep.Port);
+ String welcome = "Welcome to my test server";
+ //string Name ="Huynh Gia THuan";
+ //string Age = "21";
+ //string ThongDiep = "Thong DIep 1";
+ //data = Encoding.ASCII.GetBytes(welcome,Name,Age,ThongDiep);
+ //client.Send(data, data.Length, SocketFlags.None);
+
+
+
+    
+ string stringData;
+
+ IPEndPoint newclinet =(IPEndPoint)client.RemoteEndPoint;
+ int recv = client.Receive(data);
+ stringData = Encoding.ASCII.GetString(data, 0, recv);
+ Console.WriteLine(stringData);
+ client.Send(Encoding.ASCII.GetBytes("Thuan"));
+ client.Send(Encoding.ASCII.GetBytes("HUynh"));
+ client.Send(Encoding.ASCII.GetBytes("HUynh Gia Thuan "));
+ client.Send(Encoding.ASCII.GetBytes("Thuan"));
+
+
+
+
+
+
+
+
+ while (true)
+ {
+     data = new byte[1024];
+     recv = client.Receive(data);
+    
+     if (recv == 0)
+     {
+         break;
+     }
+     Console.WriteLine(Encoding.ASCII.GetString(data, 0, recv));
+    
+     //client.Send(data, phep, SocketFlags.None);
+     client.Send(data, recv, SocketFlags.None);
+     }
+ Console.WriteLine("Disconected from {0}", clientep.Address);
+ client.Close();
+ newsock.Close();

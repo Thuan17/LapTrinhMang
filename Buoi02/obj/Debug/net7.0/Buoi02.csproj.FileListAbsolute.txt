@@ -1,0 +1,4 @@
+D:\DaiHoc\LapTrinhMang\Buoi02\obj\Debug\net7.0\Buoi02.GeneratedMSBuildEditorConfig.editorconfig
+D:\DaiHoc\LapTrinhMang\Buoi02\obj\Debug\net7.0\Buoi02.AssemblyInfoInputs.cache
+D:\DaiHoc\LapTrinhMang\Buoi02\obj\Debug\net7.0\Buoi02.AssemblyInfo.cs
+D:\DaiHoc\LapTrinhMang\Buoi02\obj\Debug\net7.0\Buoi02.csproj.CoreCompileInputs.cache
