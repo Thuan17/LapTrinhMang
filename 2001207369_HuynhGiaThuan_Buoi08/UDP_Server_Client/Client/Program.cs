@@ -12,57 +12,51 @@ namespace Client
     {
         static void Main(string[] args)
         {
-
+            Console.Write("Client");
+            Console.Write("\n");
             byte[] data = new byte[1024];
-            string  stringData;
+            string input, stringData;
+            UdpClient server = new UdpClient("127.0.0.1", 5000);
+            IPEndPoint sender = new IPEndPoint(IPAddress.Any, 0);
 
-
-            //Console.Write("nhap ip cua ban :");
-            //var ip = Console.ReadLine();
-            ////var ip = "127.0.0.1";
-            //Console.Write("Nhap Port Server :");
-            //var portString = Console.ReadLine();
-
-
-            UdpClient server = new UdpClient("127.0.0.1", 1308);
-            //IPEndPoint sender = new IPEndPoint(IPAddress.Any, 0);
-
-
-
-
-            IPEndPoint clientEndPoint = new IPEndPoint(IPAddress.Any, 0);
-           
-
-            string chao = "Chao server";
-            data=Encoding.ASCII.GetBytes(chao);
+            string welcome = "Xac nhan phan hoi tu phia Server.";
+            data = Encoding.ASCII.GetBytes(welcome);
             server.Send(data, data.Length);
-
-            //data = server.Receive(ref ipEndPoint);
-
-            //Console.WriteLine("Nhan tu server ",sender.ToString());
-
-            byte[] receivedData = server.Receive(ref clientEndPoint);
-            string request = Encoding.UTF8.GetString(receivedData);
-
-            stringData =Encoding.ASCII.GetString(data ,0,data.Length);
-            Console.WriteLine(stringData);
-            while (true) 
+            data = new byte[1024];
+            try
             {
-                Console.Write("nhap noi dung:");
-                var input = Console.ReadLine();
+                data = server.Receive(ref sender);
+                Console.WriteLine("Xac nhan thanh cong, tu {0}:", sender.ToString());
+                Console.WriteLine(Encoding.ASCII.GetString(data, 0, data.Length));
+            }
+            catch (SocketException)
+            {
+                Console.WriteLine("Gap van de ket noi den Server, ngat ket noi...");
+                return;
+            }
 
-                if (input == "ex")
-                {
+            int i = 30;
+            while (true)
+            {
+                input = Console.ReadLine();
+                if (input == "exit")
                     break;
-                }
                 server.Send(Encoding.ASCII.GetBytes(input), input.Length);
-                //data=server.Receive(ref sender);
-                stringData = Encoding.ASCII.GetString(data, 0, data.Length);
-                Console.WriteLine(stringData);      
-            }   
-            //Console.WriteLine("dong client");
-            //server.Close();
-
+                data = new byte[1024];
+                try
+                {
+                    data = server.Receive(ref sender);
+                    stringData = Encoding.ASCII.GetString(data, 0, data.Length);
+                    Console.WriteLine(stringData);
+                }
+                catch (SocketException)
+                {
+                    Console.WriteLine("Mat du lieu! vui long nhap lai.");
+                    i += 10;
+                }
+            }
+            Console.WriteLine("Ngat ket noi...");
+            server.Close();
         }
     }
 }

@@ -2,7 +2,6 @@ D:\LapTrinhMang\LapTrinhMang\DoAn\TroChoiDemSo\Server\bin\Debug\Server.exe.confi
 D:\LapTrinhMang\LapTrinhMang\DoAn\TroChoiDemSo\Server\bin\Debug\Server.exe
 D:\LapTrinhMang\LapTrinhMang\DoAn\TroChoiDemSo\Server\bin\Debug\Server.pdb
 D:\LapTrinhMang\LapTrinhMang\DoAn\TroChoiDemSo\Server\obj\Debug\Server.csproj.AssemblyReference.cache
-D:\LapTrinhMang\LapTrinhMang\DoAn\TroChoiDemSo\Server\obj\Debug\Server.Client.resources
 D:\LapTrinhMang\LapTrinhMang\DoAn\TroChoiDemSo\Server\obj\Debug\Server.Form1.resources
 D:\LapTrinhMang\LapTrinhMang\DoAn\TroChoiDemSo\Server\obj\Debug\Server.Properties.Resources.resources
 D:\LapTrinhMang\LapTrinhMang\DoAn\TroChoiDemSo\Server\obj\Debug\Server.Server.resources

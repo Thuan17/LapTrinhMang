@@ -13,34 +13,46 @@ namespace Server
     {
         static void Main(string[] args)
         {
-
-
+            int recv;
             byte[] data = new byte[1024];
-            IPEndPoint ipend = new IPEndPoint(IPAddress.Any, 1308);
-            UdpClient socket = new UdpClient(ipend);
-            Console.WriteLine("Dang Cho Ket Noi Client");
+            IPEndPoint ipep = new IPEndPoint(IPAddress.Any, 5000);
+            UdpClient newsock = new UdpClient(ipep);
+            Console.WriteLine("Dang doi Client...");
             IPEndPoint sender = new IPEndPoint(IPAddress.Any, 0);
-            data = socket.Receive(ref sender);
-            Console.WriteLine("Nhan Tu {0} noi dung{1}", ipend, sender.ToString());
+            data = newsock.Receive(ref sender);
+            Console.WriteLine("Thong diep dc nha tu..(0):", sender.ToString());
             Console.WriteLine(Encoding.ASCII.GetString(data, 0, data.Length));
-            string chao = "chao client";
-            data = Encoding.ASCII.GetBytes(chao);
-            socket.Send(data, data.Length, sender);
-
-
+            string menu = "Nhap tu tieng anh ( Computer , RAM , HDD ): ";
+            data = Encoding.ASCII.GetBytes(menu);
+            newsock.Send(data, data.Length, sender);
             while (true)
             {
 
-                data = socket.Receive(ref sender);
+                /*data = newsock.Receive(ref sender);
                 Console.WriteLine(Encoding.ASCII.GetString(data, 0, data.Length));
-                socket.Send(data, data.Length, sender);
+                newsock.Send(data, data.Length, sender);*/
+                data = newsock.Receive(ref sender);
+                string message = Encoding.ASCII.GetString(data);
+                string ketqua = TranslateToVietnamese(message);
+                data = Encoding.ASCII.GetBytes(ketqua);
+                newsock.Send(data, data.Length, sender);
+                Console.WriteLine("Da gui:  {0}", ketqua);
             }
         }
 
-        public void XuLy(string noidung)
+        static string TranslateToVietnamese(string englishWord)
         {
-
-
+            switch (englishWord)
+            {
+                case "Computer":
+                    return "May Tinh";
+                case "RAM":
+                    return "Bo Nho RAM";
+                case "HDD":
+                    return "O Cung Di Dong";
+                default:
+                    return "Not Found";
+            }
         }
     }
 }

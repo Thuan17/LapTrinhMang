@@ -1,0 +1,11 @@
+D:\LapTrinhMang\LapTrinhMang\DoAn\TroChoiDemSo\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+D:\LapTrinhMang\LapTrinhMang\DoAn\TroChoiDemSo\Client\obj\Debug\Server.Client.resources
+D:\LapTrinhMang\LapTrinhMang\DoAn\TroChoiDemSo\Client\obj\Debug\Server.DangNhap.resources
+D:\LapTrinhMang\LapTrinhMang\DoAn\TroChoiDemSo\Client\obj\Debug\Client.Properties.Resources.resources
+D:\LapTrinhMang\LapTrinhMang\DoAn\TroChoiDemSo\Client\obj\Debug\Client.csproj.GenerateResource.cache
+D:\LapTrinhMang\LapTrinhMang\DoAn\TroChoiDemSo\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+D:\LapTrinhMang\LapTrinhMang\DoAn\TroChoiDemSo\Client\bin\Debug\Client.exe.config
+D:\LapTrinhMang\LapTrinhMang\DoAn\TroChoiDemSo\Client\bin\Debug\Client.exe
+D:\LapTrinhMang\LapTrinhMang\DoAn\TroChoiDemSo\Client\bin\Debug\Client.pdb
+D:\LapTrinhMang\LapTrinhMang\DoAn\TroChoiDemSo\Client\obj\Debug\Client.exe
+D:\LapTrinhMang\LapTrinhMang\DoAn\TroChoiDemSo\Client\obj\Debug\Client.pdb

@@ -5,3 +5,10 @@ D:\DaiHoc\LapTrinhMang\LapTrinhMang\Buoi08\UDP_Server_Client\Client\obj\Debug\Cl
 D:\DaiHoc\LapTrinhMang\LapTrinhMang\Buoi08\UDP_Server_Client\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
 D:\DaiHoc\LapTrinhMang\LapTrinhMang\Buoi08\UDP_Server_Client\Client\obj\Debug\Client.exe
 D:\DaiHoc\LapTrinhMang\LapTrinhMang\Buoi08\UDP_Server_Client\Client\obj\Debug\Client.pdb
+D:\LapTrinhMang\LapTrinhMang\2001207369_HuynhGiaThuan_Buoi08\UDP_Server_Client\Client\bin\Debug\Client.exe.config
+D:\LapTrinhMang\LapTrinhMang\2001207369_HuynhGiaThuan_Buoi08\UDP_Server_Client\Client\bin\Debug\Client.exe
+D:\LapTrinhMang\LapTrinhMang\2001207369_HuynhGiaThuan_Buoi08\UDP_Server_Client\Client\bin\Debug\Client.pdb
+D:\LapTrinhMang\LapTrinhMang\2001207369_HuynhGiaThuan_Buoi08\UDP_Server_Client\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+D:\LapTrinhMang\LapTrinhMang\2001207369_HuynhGiaThuan_Buoi08\UDP_Server_Client\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+D:\LapTrinhMang\LapTrinhMang\2001207369_HuynhGiaThuan_Buoi08\UDP_Server_Client\Client\obj\Debug\Client.exe
+D:\LapTrinhMang\LapTrinhMang\2001207369_HuynhGiaThuan_Buoi08\UDP_Server_Client\Client\obj\Debug\Client.pdb
