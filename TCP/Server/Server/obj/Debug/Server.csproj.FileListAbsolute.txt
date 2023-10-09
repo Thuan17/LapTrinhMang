@@ -1,0 +1,7 @@
+D:\LapTrinhMang\LapTrinhMang\TCP\Server\Server\bin\Debug\Server.exe.config
+D:\LapTrinhMang\LapTrinhMang\TCP\Server\Server\bin\Debug\Server.exe
+D:\LapTrinhMang\LapTrinhMang\TCP\Server\Server\bin\Debug\Server.pdb
+D:\LapTrinhMang\LapTrinhMang\TCP\Server\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+D:\LapTrinhMang\LapTrinhMang\TCP\Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+D:\LapTrinhMang\LapTrinhMang\TCP\Server\Server\obj\Debug\Server.exe
+D:\LapTrinhMang\LapTrinhMang\TCP\Server\Server\obj\Debug\Server.pdb

@@ -1,0 +1,7 @@
+D:\LapTrinhMang\LapTrinhMang\TCP\2Cli1Ser\TCP_1Ser_2Cli\CLient1\bin\Debug\CLient1.exe.config
+D:\LapTrinhMang\LapTrinhMang\TCP\2Cli1Ser\TCP_1Ser_2Cli\CLient1\bin\Debug\CLient1.exe
+D:\LapTrinhMang\LapTrinhMang\TCP\2Cli1Ser\TCP_1Ser_2Cli\CLient1\bin\Debug\CLient1.pdb
+D:\LapTrinhMang\LapTrinhMang\TCP\2Cli1Ser\TCP_1Ser_2Cli\CLient1\obj\Debug\CLient1.csproj.AssemblyReference.cache
+D:\LapTrinhMang\LapTrinhMang\TCP\2Cli1Ser\TCP_1Ser_2Cli\CLient1\obj\Debug\CLient1.csproj.CoreCompileInputs.cache
+D:\LapTrinhMang\LapTrinhMang\TCP\2Cli1Ser\TCP_1Ser_2Cli\CLient1\obj\Debug\CLient1.exe
+D:\LapTrinhMang\LapTrinhMang\TCP\2Cli1Ser\TCP_1Ser_2Cli\CLient1\obj\Debug\CLient1.pdb

@@ -14,13 +14,19 @@ namespace ServerServer
         private TcpListener m_server;
         private static List<Client> m_clients;
         char m_char = 'A';
+       
         public Server(string host, int port)
         {
-            m_server = new TcpListener(IPAddress.Parse(host), port);
+            m_server = new TcpListener(IPAddress.Any, 5000);
+
+         
+
+
             m_clients = new List<Client>();
         }
         public void start()
         {
+           
             m_server.Start();
             Console.WriteLine("Start server...");
 
@@ -29,13 +35,25 @@ namespace ServerServer
                 Socket socket = m_server.AcceptSocket();
                 Client client = new Client(socket);
                 string name = new string(m_char.ToString());
+
+
+                // Lấy địa chỉ IP của máy client
+                //IPEndPoint ipclient = (IPEndPoint).
+                //IPAddress clientIpAddress = remoteEndPoint.Address;
+                //int clientPort = remoteEndPoint.Port;
+               
+
                 m_char++;
                 client.name = name;
                 m_clients.Add(client);
                 client.start();
                 Console.WriteLine("Accept new client: " + client.name + "\nNum client: " + m_clients.Count.ToString());
+                Console.WriteLine("Accept new client: " + m_server);
             }
         }
+
+
+        //nhan tu client
         public static void serverControl(Client fromClient)
         {
             try
@@ -44,17 +62,18 @@ namespace ServerServer
                 while ((text = fromClient.m_reader.ReadString()) != string.Empty)
                 {
                     text = fromClient.name + ": " + text;
-                    Console.WriteLine(/*text*/"ok ne");
+                    Console.WriteLine(text);
                     foreach (Client client in m_clients)
                     {
+                        client.m_writer.Write(/*text*/"thuan");
                         client.m_writer.Write(text);
-                        
                     }
                 }
             }
             catch (Exception ex)
             {
                 m_clients.Remove(fromClient);
+               
             }
             finally
             {

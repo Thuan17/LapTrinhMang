@@ -55,7 +55,7 @@ namespace ClientClient
             try
             {
                 m_client = new TcpClient();
-                m_client.Connect("127.0.0.1", 3000);
+                m_client.Connect("127.0.0.1", 5000);
                 m_stream = m_client.GetStream();
                 m_reader = new BinaryReader(m_stream, Encoding.UTF8);
                 m_writer = new BinaryWriter(m_stream, Encoding.UTF8);
@@ -80,7 +80,7 @@ namespace ClientClient
         private void btn_send_Click(object sender, EventArgs e)
         {
             string text = this.txt_msg.Text;
-            if(text != string.Empty)
+            if (text != string.Empty)
             {
                 try
                 {

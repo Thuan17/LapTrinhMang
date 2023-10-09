@@ -5,3 +5,10 @@ D:\DaiHoc\LapTrinhMang\LapTrinhMang\TCP\Client\Client02\obj\Debug\Client02.cspro
 D:\DaiHoc\LapTrinhMang\LapTrinhMang\TCP\Client\Client02\obj\Debug\Client02.csproj.CoreCompileInputs.cache
 D:\DaiHoc\LapTrinhMang\LapTrinhMang\TCP\Client\Client02\obj\Debug\Client02.exe
 D:\DaiHoc\LapTrinhMang\LapTrinhMang\TCP\Client\Client02\obj\Debug\Client02.pdb
+D:\LapTrinhMang\LapTrinhMang\TCP\Client\Client02\bin\Debug\Client02.exe.config
+D:\LapTrinhMang\LapTrinhMang\TCP\Client\Client02\bin\Debug\Client02.exe
+D:\LapTrinhMang\LapTrinhMang\TCP\Client\Client02\bin\Debug\Client02.pdb
+D:\LapTrinhMang\LapTrinhMang\TCP\Client\Client02\obj\Debug\Client02.csproj.AssemblyReference.cache
+D:\LapTrinhMang\LapTrinhMang\TCP\Client\Client02\obj\Debug\Client02.csproj.CoreCompileInputs.cache
+D:\LapTrinhMang\LapTrinhMang\TCP\Client\Client02\obj\Debug\Client02.exe
+D:\LapTrinhMang\LapTrinhMang\TCP\Client\Client02\obj\Debug\Client02.pdb

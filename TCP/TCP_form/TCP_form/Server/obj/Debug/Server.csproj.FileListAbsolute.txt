@@ -1,0 +1,10 @@
+D:\LapTrinhMang\LapTrinhMang\TCP\TCP_form\TCP_form\Server\bin\Debug\Server.exe.config
+D:\LapTrinhMang\LapTrinhMang\TCP\TCP_form\TCP_form\Server\bin\Debug\Server.exe
+D:\LapTrinhMang\LapTrinhMang\TCP\TCP_form\TCP_form\Server\bin\Debug\Server.pdb
+D:\LapTrinhMang\LapTrinhMang\TCP\TCP_form\TCP_form\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+D:\LapTrinhMang\LapTrinhMang\TCP\TCP_form\TCP_form\Server\obj\Debug\Server.Send.resources
+D:\LapTrinhMang\LapTrinhMang\TCP\TCP_form\TCP_form\Server\obj\Debug\Server.Properties.Resources.resources
+D:\LapTrinhMang\LapTrinhMang\TCP\TCP_form\TCP_form\Server\obj\Debug\Server.csproj.GenerateResource.cache
+D:\LapTrinhMang\LapTrinhMang\TCP\TCP_form\TCP_form\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+D:\LapTrinhMang\LapTrinhMang\TCP\TCP_form\TCP_form\Server\obj\Debug\Server.exe
+D:\LapTrinhMang\LapTrinhMang\TCP\TCP_form\TCP_form\Server\obj\Debug\Server.pdb
