@@ -45,6 +45,7 @@
             // 
             // list_chat
             // 
+            this.list_chat.BackColor = System.Drawing.SystemColors.Window;
             this.list_chat.FormattingEnabled = true;
             this.list_chat.Location = new System.Drawing.Point(39, 173);
             this.list_chat.Name = "list_chat";
@@ -177,6 +178,7 @@
             this.Controls.Add(this.label1);
             this.Name = "Client";
             this.Text = "Client";
+            this.Load += new System.EventHandler(this.Client_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 

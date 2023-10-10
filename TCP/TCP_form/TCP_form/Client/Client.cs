@@ -96,5 +96,10 @@ namespace Client
                 upChat(IpServer + "\t" + Port);
             }
         }
+
+        private void Client_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

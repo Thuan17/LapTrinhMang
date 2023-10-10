@@ -33,7 +33,7 @@ namespace Server
 
         public void clientCtrol()
         {
-            Form1 f = new Form1();
+            Server.
         }
 
 
